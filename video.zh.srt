@@ -1,0 +1,1249 @@
+1
+00:00:00,000 --> 00:00:05,000
+47% of people using Claude only ever ask once,
+使用Claude的人中有47%只问一次，
+
+2
+00:00:05,880 --> 00:00:08,880
+get an answer and close the tab.
+得到答案后就关闭了标签页。
+
+3
+00:00:08,880 --> 00:00:10,279
+You probably feel it.
+你可能有这种感觉。
+
+4
+00:00:10,279 --> 00:00:12,920
+You type something in and get something back
+你输入一些内容，得到一些回复，
+
+5
+00:00:12,920 --> 00:00:17,200
+and it's almost what you needed, but not quite.
+几乎是你需要的，但又不完全对。
+
+6
+00:00:17,200 --> 00:00:19,360
+And you are not sure why.
+你不确定原因是什么。
+
+7
+00:00:19,360 --> 00:00:21,579
+The tutorials don't really help.
+教程并没有真正帮助。
+
+8
+00:00:21,579 --> 00:00:24,059
+The prompting tips don't stick.
+提示技巧没有记住。
+
+9
+00:00:24,059 --> 00:00:27,280
+And the gap between what AI can actually do
+AI实际能做的和你能得到的之间的差距，
+
+10
+00:00:27,280 --> 00:00:31,000
+and what you can actually get out of it, just see there.
+你可以看到。
+
+11
+00:00:32,119 --> 00:00:33,720
+And the gap has a name.
+这个差距有个名字。
+
+12
+00:00:33,720 --> 00:00:36,599
+Today, we are going to close the gap.
+今天，我们要缩小这个差距。
+
+13
+00:00:36,599 --> 00:00:40,000
+The 47% isn't a failure of the technology,
+47%并不是技术的失败，
+
+14
+00:00:40,000 --> 00:00:42,639
+is the absence of framework.
+而是缺乏框架。
+
+15
+00:00:42,639 --> 00:00:46,599
+92% of students now use the AI regularly.
+现在92%的学生定期使用AI。
+
+16
+00:00:46,599 --> 00:00:49,060
+Adoption isn't a question anymore,
+采用不再是一个问题，
+
+17
+00:00:49,060 --> 00:00:51,400
+but adoption is not fluency.
+但采用并不等于流利。
+
+18
+00:00:51,400 --> 00:00:54,720
+And the most people have never been clearly shown
+而大多数人从未清楚地看到
+
+19
+00:00:54,720 --> 00:00:57,919
+what the difference between them actually looks like.
+它们之间的区别是什么样的。
+
+20
+00:00:57,919 --> 00:01:01,279
+The question is no longer why the people are using AI.
+问题不再是人们为什么使用AI。
+
+21
+00:01:01,279 --> 00:01:04,120
+The question is, are they using it well?
+问题是，他们是否使用得当？
+
+22
+00:01:05,440 --> 00:01:09,540
+Right now, most people fall into one of two patterns.
+现在，大多数人落入两种模式之一。
+
+23
+00:01:09,540 --> 00:01:11,239
+They're either overwhelmed,
+他们要么感到不知所措，
+
+24
+00:01:11,239 --> 00:01:14,800
+drowning in tools, prompts, and possibilities,
+淹没在工具、提示和可能性中，
+
+25
+00:01:14,800 --> 00:01:17,080
+not knowing where to start,
+不知道从哪里开始，
+
+26
+00:01:17,080 --> 00:01:21,800
+or they're overconfident, taking AI outputs at face value,
+要么他们过于自信，直接接受AI的输出，
+
+27
+00:01:21,800 --> 00:01:23,760
+not knowing what to question,
+不知道该质疑什么，
+
+28
+00:01:23,760 --> 00:01:27,000
+producing work that looks right, but isn't.
+产生看起来正确但实际上不对的作品。
+
+29
+00:01:27,000 --> 00:01:29,760
+Both patterns lead to the same place.
+这两种模式都导致同样的结果。
+
+30
+00:01:29,760 --> 00:01:33,599
+Mediocre results and enormous missed potential.
+平庸的结果和巨大的潜在机会被错失。
+
+31
+00:01:33,599 --> 00:01:35,319
+There is a third way.
+There is a third way.
+
+32
+00:01:36,379 --> 00:01:38,239
+That third way has a name,
+That third way has a name,
+
+33
+00:01:38,239 --> 00:01:41,339
+and it was developed by some of the world's leading thinkers
+and it was developed by some of the world's leading thinkers
+
+34
+00:01:41,339 --> 00:01:43,819
+on human AI interaction.
+on human AI interaction.
+
+35
+00:01:43,819 --> 00:01:45,519
+It's called AI fluency.
+It's called AI fluency.
+
+36
+00:01:46,400 --> 00:01:48,919
+Anthropica partner with Professor Joseph Faller
+Anthropica partner with Professor Joseph Faller
+
+37
+00:01:48,919 --> 00:01:50,360
+from University College Cork
+from University College Cork
+
+38
+00:01:50,360 --> 00:01:52,919
+and Professor Rick Dutkin from Ringling College
+and Professor Rick Dutkin from Ringling College
+
+39
+00:01:52,959 --> 00:01:55,639
+to create a rigorous, accessible framework
+to create a rigorous, accessible framework
+
+40
+00:01:55,639 --> 00:01:57,980
+for working with AI well.
+for working with AI well.
+
+41
+00:01:57,980 --> 00:02:00,080
+They define AI fluency as the ability
+They define AI fluency as the ability
+
+42
+00:02:00,080 --> 00:02:04,239
+to work with AI systems in ways that are effective,
+to work with AI systems in ways that are effective,
+
+43
+00:02:04,239 --> 00:02:08,000
+efficient, ethical, and safe.
+efficient, ethical, and safe.
+
+44
+00:02:08,000 --> 00:02:11,160
+Four words, but they represent a completely different
+Four words, but they represent a completely different
+
+45
+00:02:11,160 --> 00:02:14,179
+relationship with AI than most people have today.
+relationship with AI than most people have today.
+
+46
+00:02:15,039 --> 00:02:17,520
+Here's what I found most compelling
+Here's what I found most compelling
+
+47
+00:02:17,520 --> 00:02:21,080
+about Anthropica's approach to AI education.
+about Anthropica's approach to AI education.
+
+48
+00:02:21,080 --> 00:02:22,759
+Their team has said,
+Their team has said,
+
+49
+00:02:22,759 --> 00:02:26,360
+we would much rather teach a million people not to use AI
+we would much rather teach a million people not to use AI
+
+50
+00:02:26,360 --> 00:02:27,679
+than watch a billion people
+than watch a billion people
+
+51
+00:02:27,679 --> 00:02:30,839
+become dependent on this technology.
+become dependent on this technology.
+
+52
+00:02:30,839 --> 00:02:31,919
+Read that again.
+Read that again.
+
+53
+00:02:31,919 --> 00:02:34,339
+This isn't about using AI more.
+This isn't about using AI more.
+
+54
+00:02:34,339 --> 00:02:38,119
+It's about using it with intention on your terms
+It's about using it with intention on your terms
+
+55
+00:02:38,119 --> 00:02:41,600
+as a genuine thinker partner, not as a crutch.
+as a genuine thinker partner, not as a crutch.
+
+56
+00:02:42,919 --> 00:02:47,199
+The success criterion for AI fluency is beautifully simple.
+The success criterion for AI fluency is beautifully simple.
+
+57
+00:02:47,199 --> 00:02:50,320
+Can you clearly articulate when you want to use the AI
+Can you clearly articulate when you want to use the AI
+
+58
+00:02:50,320 --> 00:02:52,160
+and when you don't?
+and when you don't?
+
+59
+00:02:52,160 --> 00:02:54,080
+Not how many prompts you know,
+Not how many prompts you know,
+
+60
+00:02:54,080 --> 00:02:57,559
+not how many tools you've tried, just that.
+not how many tools you've tried, just that.
+
+61
+00:02:57,559 --> 00:03:01,179
+The ability to make a conscious, intentional choice.
+有意识、故意选择的能力。
+
+62
+00:03:02,360 --> 00:03:04,759
+So how do you build that capacity?
+那么你如何建立这种能力？
+
+63
+00:03:04,759 --> 00:03:06,880
+Through the AI fluency frameworks,
+通过AI流畅性框架，
+
+64
+00:03:06,880 --> 00:03:09,479
+a set of four interconnected competencies
+一套四个相互关联的能力
+
+65
+00:03:09,479 --> 00:03:13,080
+known as the four Ds, delegation, description,
+称为四个D：委派、描述、
+
+66
+00:03:13,080 --> 00:03:15,960
+discernment, and diligence.
+辨别和勤奋。
+
+67
+00:03:15,960 --> 00:03:18,139
+Let's go through each one.
+让我们逐一了解。
+
+68
+00:03:18,139 --> 00:03:20,699
+The first D is delegation.
+第一个D是委派。
+
+69
+00:03:20,699 --> 00:03:23,940
+Delegation asks one fundamental question.
+委派提出一个基本问题。
+
+70
+00:03:23,940 --> 00:03:25,899
+Who does what?
+谁做什么？
+
+71
+00:03:25,899 --> 00:03:28,179
+In every interaction with AI,
+在与AI的每次互动中，
+
+72
+00:03:28,179 --> 00:03:31,699
+you are making choice consciously or not
+你都在有意识或无意识地做出选择，
+
+73
+00:03:31,699 --> 00:03:35,300
+about what role AI plays and what role you play.
+关于AI扮演什么角色以及你扮演什么角色。
+
+74
+00:03:35,300 --> 00:03:38,520
+AI fluency means making that choice deliberately.
+AI流畅性意味着故意做出这个选择。
+
+75
+00:03:39,660 --> 00:03:41,580
+There are three parts to delegation.
+委派有三个部分。
+
+76
+00:03:41,580 --> 00:03:43,860
+The first one is go clarity.
+第一部分是明确目标。
+
+77
+00:03:43,860 --> 00:03:46,380
+Before you open any AI tool,
+在打开任何AI工具之前，
+
+78
+00:03:46,380 --> 00:03:49,539
+know what you're actually trying to achieve.
+要知道你实际上想要实现什么。
+
+79
+00:03:49,539 --> 00:03:52,020
+Help me write an email is not a go.
+“帮我写一封邮件”并不是一个明确的目标。
+
+80
+00:03:52,020 --> 00:03:54,259
+Draft a follow-up email to client
+给客户起草一封跟进邮件，
+
+81
+00:03:54,259 --> 00:03:56,619
+who went silent after our proposal.
+他在我们的提案后沉默不语。
+
+82
+00:03:56,619 --> 00:03:59,820
+Acknowledge the delay, briefly restate the value,
+承认延迟，简要重申价值，
+
+83
+00:03:59,820 --> 00:04:02,619
+and end with a single low friction ask.
+并以一个简单的低阻力请求结束。
+
+84
+00:04:02,619 --> 00:04:03,839
+That's a go.
+这才是明确的目标。
+
+85
+00:04:04,779 --> 00:04:07,259
+The second is platform awareness.
+第二部分是平台意识。
+
+86
+00:04:07,259 --> 00:04:09,399
+Different tools have different strengths.
+不同的工具有不同的优势。
+
+87
+00:04:09,399 --> 00:04:13,380
+Claude is particularly strong at structural analysis,
+Claude在结构分析、
+
+88
+00:04:13,380 --> 00:04:16,339
+nuanced writing, and complex reasoning.
+细致写作和复杂推理方面特别强。
+
+89
+00:04:17,179 --> 00:04:19,260
+Knowing where to go for what kind of work
+知道在什么工作中该使用什么工具，
+
+90
+00:04:19,260 --> 00:04:20,839
+is itself a skill.
+本身就是一种技能。
+
+91
+00:04:21,980 --> 00:04:24,739
+And the last one, task distribution.
+And the last one, task distribution.
+
+92
+00:04:24,739 --> 00:04:27,940
+AI handles execution and pattern work.
+AI handles execution and pattern work.
+
+93
+00:04:27,940 --> 00:04:30,500
+You handle direction, judgment,
+You handle direction, judgment,
+
+94
+00:04:30,500 --> 00:04:32,739
+and relationship-sensitive decisions.
+and relationship-sensitive decisions.
+
+95
+00:04:33,980 --> 00:04:35,899
+The second D is description,
+The second D is description,
+
+96
+00:04:35,899 --> 00:04:38,260
+how you communicate with AI.
+how you communicate with AI.
+
+97
+00:04:38,260 --> 00:04:40,260
+This is where most people struggle,
+This is where most people struggle,
+
+98
+00:04:40,260 --> 00:04:43,540
+which is exactly why they get mediocre results.
+which is exactly why they get mediocre results.
+
+99
+00:04:43,540 --> 00:04:45,760
+Here's the golden rule.
+Here's the golden rule.
+
+100
+00:04:45,799 --> 00:04:50,119
+Vague input always produces vague output.
+Vague input always produces vague output.
+
+101
+00:04:50,119 --> 00:04:53,339
+Great description uses what's called the three Ps.
+Great description uses what's called the three Ps.
+
+102
+00:04:54,779 --> 00:04:57,640
+The first P is product description.
+The first P is product description.
+
+103
+00:04:57,640 --> 00:05:00,079
+Tell AI exactly what you want,
+Tell AI exactly what you want,
+
+104
+00:05:00,079 --> 00:05:03,059
+not just the topic, the format, the audience,
+not just the topic, the format, the audience,
+
+105
+00:05:03,059 --> 00:05:05,959
+the tone, the length, be specific.
+the tone, the length, be specific.
+
+106
+00:05:05,959 --> 00:05:08,679
+The second P is process description.
+The second P is process description.
+
+107
+00:05:08,679 --> 00:05:11,040
+Tell AI how to approach the task.
+Tell AI how to approach the task.
+
+108
+00:05:11,040 --> 00:05:13,040
+Should it analyze multiple angles
+Should it analyze multiple angles
+
+109
+00:05:13,040 --> 00:05:15,559
+or break the work into stages?
+or break the work into stages?
+
+110
+00:05:16,359 --> 00:05:18,760
+The third P is performance description.
+The third P is performance description.
+
+111
+00:05:18,760 --> 00:05:21,799
+Set expectations for the interaction itself.
+Set expectations for the interaction itself.
+
+112
+00:05:21,799 --> 00:05:24,720
+Should AI ask clarifying questions,
+Should AI ask clarifying questions,
+
+113
+00:05:24,720 --> 00:05:26,519
+challenging your assumptions?
+challenging your assumptions?
+
+114
+00:05:26,519 --> 00:05:28,559
+Be brief or thorough.
+Be brief or thorough.
+
+115
+00:05:28,559 --> 00:05:31,200
+Think of it as briefing a brilliant new colleague.
+Think of it as briefing a brilliant new colleague.
+
+116
+00:05:31,200 --> 00:05:34,160
+The better your brief, the better their work.
+The better your brief, the better their work.
+
+117
+00:05:34,160 --> 00:05:35,559
+I want to spend a moment on this
+I want to spend a moment on this
+
+118
+00:05:35,559 --> 00:05:37,920
+because it's one of the most important principles
+because it's one of the most important principles
+
+119
+00:05:37,920 --> 00:05:39,440
+in AI fluency.
+in AI fluency.
+
+120
+00:05:39,440 --> 00:05:43,619
+Vague input always produces vague output.
+Vague input always produces vague output.
+
+121
+00:05:43,619 --> 00:05:45,040
+Most AI frustration,
+大多数对人工智能的挫败感，
+
+122
+00:05:45,040 --> 00:05:47,100
+the sense that AI doesn't really get it,
+源于对人工智能理解的怀疑，
+
+123
+00:05:47,100 --> 00:05:48,739
+traces back to this.
+这可以追溯到这里。
+
+124
+00:05:48,739 --> 00:05:51,179
+It's not a limitation of the model,
+这不是模型的局限，
+
+125
+00:05:51,179 --> 00:05:53,440
+it's a limitation of the description.
+而是描述的局限。
+
+126
+00:05:54,619 --> 00:05:56,459
+The third D is discernment,
+第三个D是辨别力，
+
+127
+00:05:56,459 --> 00:05:59,480
+and this is where AI fluency separates professionals
+这就是人工智能流利度将专业人士
+
+128
+00:05:59,480 --> 00:06:01,380
+from casual users.
+与普通用户区分开的地方。
+
+129
+00:06:01,380 --> 00:06:04,299
+AI sounds confident even when it's wrong.
+人工智能即使错误也听起来很自信。
+
+130
+00:06:04,299 --> 00:06:06,540
+It states incorrect facts
+它以与正确事实相同的语气
+
+131
+00:06:06,540 --> 00:06:09,179
+with the same tone as correct ones.
+陈述不正确的事实。
+
+132
+00:06:09,179 --> 00:06:11,260
+It generates plausible sounding reasoning
+它生成听起来合理的推理，
+
+133
+00:06:11,260 --> 00:06:13,339
+that doesn't quite hold together.
+但并不完全成立。
+
+134
+00:06:14,059 --> 00:06:17,820
+The fourth P is trusting professional language.
+第四个P是信任专业语言。
+
+135
+00:06:17,820 --> 00:06:21,019
+Discernment is the practice of reading AI outputs
+辨别力是对人工智能输出的
+
+136
+00:06:21,019 --> 00:06:24,019
+with genuine critical evaluation.
+真实批判性评估的实践。
+
+137
+00:06:24,019 --> 00:06:26,059
+There are three lenses.
+有三个视角。
+
+138
+00:06:26,059 --> 00:06:28,980
+The first one is part of discernment.
+第一个是辨别力的一部分。
+
+139
+00:06:28,980 --> 00:06:30,540
+Is this accurate?
+这准确吗？
+
+140
+00:06:30,540 --> 00:06:32,619
+Is it logically coherent?
+逻辑上连贯吗？
+
+141
+00:06:32,619 --> 00:06:35,019
+Is it appropriate for my purpose?
+适合我的目的吗？
+
+142
+00:06:35,019 --> 00:06:39,019
+Do I have the domain knowledge to catch what might be wrong?
+我是否拥有识别错误的领域知识？
+
+143
+00:06:39,019 --> 00:06:41,820
+The second is processed discernment.
+第二个是处理后的辨别力。
+
+144
+00:06:42,299 --> 00:06:43,859
+Or just organizing information
+或者只是将信息
+
+145
+00:06:43,859 --> 00:06:46,260
+into impressive looking structures.
+组织成看起来令人印象深刻的结构。
+
+146
+00:06:46,260 --> 00:06:48,459
+Is that real thinking here?
+这里是真正的思考吗？
+
+147
+00:06:48,459 --> 00:06:49,739
+Or confident noise?
+还是自信的噪音？
+
+148
+00:06:50,779 --> 00:06:53,500
+Third one is performance discernment.
+第三个是表现辨别力。
+
+149
+00:06:53,500 --> 00:06:55,899
+Did the response actually help me?
+这个回应真的对我有帮助吗？
+
+150
+00:06:55,899 --> 00:06:58,220
+Does it match the tone I needed?
+它符合我需要的语气吗？
+
+151
+00:06:58,220 --> 00:07:00,700
+Is it the right level of depth?
+深度合适吗？
+
+152
+00:07:00,700 --> 00:07:02,459
+Here's the habit to build.
+这是要培养的习惯。
+
+153
+00:07:02,459 --> 00:07:06,100
+Read every AI output as if a competitor wrote it.
+把每个AI输出都当作竞争对手写的。
+
+154
+00:07:06,100 --> 00:07:08,899
+Skeptically, not looking for what's right,
+持怀疑态度，而不是寻找正确的，
+
+155
+00:07:08,899 --> 00:07:11,820
+looking for what might be wrong.
+寻找可能出错的地方。
+
+156
+00:07:11,820 --> 00:07:14,019
+The fourth D is diligence.
+第四个D是勤奋。
+
+157
+00:07:14,019 --> 00:07:17,540
+And it comes down to one word, responsibility.
+归结为一个词，责任。
+
+158
+00:07:17,540 --> 00:07:20,059
+No matter how good the AI output is,
+无论AI输出多么优秀，
+
+159
+00:07:20,059 --> 00:07:24,059
+you are always responsible for what you put your name on.
+你始终对自己署名的内容负责。
+
+160
+00:07:24,059 --> 00:07:25,380
+There are three parts.
+分为三个部分。
+
+161
+00:07:25,380 --> 00:07:28,299
+The first part is creation diligence.
+第一部分是创作勤奋。
+
+162
+00:07:28,299 --> 00:07:30,299
+Choose your AI tools deliberately.
+故意选择你的AI工具。
+
+163
+00:07:30,299 --> 00:07:32,980
+If you're handling sensitive information,
+如果你处理敏感信息，
+
+164
+00:07:32,980 --> 00:07:37,380
+are you sure that platform has appropriate data policies?
+你确定那个平台有适当的数据政策吗？
+
+165
+00:07:37,380 --> 00:07:39,779
+The second is transparency diligence.
+第二部分是透明度勤奋。
+
+166
+00:07:39,779 --> 00:07:43,179
+When the AI has played a significant role in your work,
+当AI在你的工作中发挥了重要作用时，
+
+167
+00:07:43,179 --> 00:07:45,059
+be honest about that.
+要诚实地说明这一点。
+
+168
+00:07:45,059 --> 00:07:47,579
+The third is deployment diligence.
+第三部分是部署勤奋。
+
+169
+00:07:47,579 --> 00:07:49,980
+Before anything reaches another person,
+在任何东西传递给其他人之前，
+
+170
+00:07:49,980 --> 00:07:52,540
+a professor, a client, a colleague,
+教授、客户、同事，
+
+171
+00:07:52,540 --> 00:07:54,940
+it passes through your judgment.
+都要经过你的判断。
+
+172
+00:07:54,940 --> 00:07:58,019
+AI's first draft is now the final product.
+AI的初稿现在是最终产品。
+
+173
+00:07:58,019 --> 00:08:00,540
+You are the last line of quality control.
+你是最后的质量控制线。
+
+174
+00:08:01,500 --> 00:08:03,779
+What's beautiful about this four D
+这四个D的美妙之处在于，
+
+175
+00:08:03,779 --> 00:08:07,100
+is that they form a cycle, not a checklist.
+它们形成一个循环，而不是一个清单。
+
+176
+00:08:07,820 --> 00:08:10,059
+You delegate, you describe,
+你委派，你描述，
+
+177
+00:08:10,059 --> 00:08:13,140
+you discern, you practice diligence.
+你辨别，你实践勤奋。
+
+178
+00:08:13,140 --> 00:08:16,899
+Then you loop back, smart delegation next time,
+然后你再回头，下次智能委派，
+
+179
+00:08:16,899 --> 00:08:20,500
+sharper descriptions, more sophisticated discernment.
+更精准的描述，更复杂的辨别。
+
+180
+00:08:20,500 --> 00:08:24,540
+This is what it means to grow as an AI-fluent practitioner,
+这就是作为一个AI流利的从业者成长的意义。
+
+181
+00:08:24,540 --> 00:08:26,579
+not just doing tasks.
+不仅仅是执行任务。
+
+182
+00:08:26,579 --> 00:08:29,260
+Let's bring this to life with a real example,
+让我们用一个真实的例子来说明，
+
+183
+00:08:29,260 --> 00:08:33,059
+one that shows AI fluency at its most creative.
+一个展示AI创造力的流畅性。
+
+184
+00:08:33,059 --> 00:08:35,900
+Imagine you're a writer collaborating with AI
+想象你是一位与AI合作的作家，
+
+185
+00:08:35,940 --> 00:08:37,940
+to create character concepts for a story.
+为一个故事创作角色概念。
+
+186
+00:08:37,940 --> 00:08:41,500
+You have a world, a plot, and a vision.
+你有一个世界，一个情节和一个愿景。
+
+187
+00:08:41,500 --> 00:08:44,580
+Where does AI fit and where does it not?
+AI适合什么，哪里又不适合？
+
+188
+00:08:44,580 --> 00:08:46,020
+Pause and think about it.
+停下来想一想。
+
+189
+00:08:46,940 --> 00:08:50,700
+With delegation, you draw a deliberate line independently.
+通过委托，你独立划定了一条明确的界限。
+
+190
+00:08:50,700 --> 00:08:54,500
+You develop the character's core, their deepest desires,
+你发展角色的核心，他们最深的渴望，
+
+191
+00:08:54,500 --> 00:08:57,539
+their defining flaws, their backstory.
+他们的缺陷，他们的背景故事。
+
+192
+00:08:57,539 --> 00:08:59,219
+These belong to you.
+这些属于你。
+
+193
+00:08:59,219 --> 00:09:01,580
+They are the soul of the character.
+它们是角色的灵魂。
+
+194
+00:09:02,460 --> 00:09:05,979
+Through AI collaboration, you explore personality,
+通过与AI的合作，你探索个性，
+
+195
+00:09:05,979 --> 00:09:09,619
+appearance, how this character fits the story world,
+外貌，这个角色如何融入故事世界，
+
+196
+00:09:09,619 --> 00:09:14,500
+and how they're engaged with others across later chapters.
+以及他们在后面的章节中如何与他人互动。
+
+197
+00:09:14,500 --> 00:09:17,340
+The principle here is that humans define the soul
+这里的原则是人类定义灵魂
+
+198
+00:09:17,340 --> 00:09:18,500
+and the core.
+和核心。
+
+199
+00:09:18,500 --> 00:09:21,539
+AI exhausts the possibilities of vision,
+AI耗尽了视觉、
+
+200
+00:09:21,539 --> 00:09:23,659
+detail, and collision.
+细节和碰撞的可能性。
+
+201
+00:09:23,659 --> 00:09:27,419
+With description, you give AI the full story background,
+通过描述，你向AI提供完整的故事背景，
+
+202
+00:09:27,419 --> 00:09:31,059
+the world's rules, its tensions, its history,
+世界的规则、紧张关系、历史，
+
+203
+00:09:31,380 --> 00:09:34,140
+you specify what kinds of character this story needs
+你具体说明这个故事需要什么样的角色，
+
+204
+00:09:34,140 --> 00:09:36,260
+and crucially, what it doesn't.
+以及至关重要的，它不需要什么。
+
+205
+00:09:36,260 --> 00:09:40,099
+So every suggestion stays inside your creative vision.
+因此，每个建议都保持在你的创意愿景之内。
+
+206
+00:09:40,099 --> 00:09:42,619
+You also establish cultural context,
+你还建立文化背景，
+
+207
+00:09:42,619 --> 00:09:45,700
+naming conventions, the aesthetic register,
+命名惯例，审美风格，
+
+208
+00:09:45,700 --> 00:09:47,099
+the emotional tone.
+情感基调。
+
+209
+00:09:47,099 --> 00:09:49,179
+With discernment, you keep elements
+通过洞察力，你保留了
+
+210
+00:09:49,179 --> 00:09:51,460
+that are essential to a key plot moment
+对关键情节时刻至关重要的元素。
+
+211
+00:09:51,460 --> 00:09:54,900
+or that sharply illuminate a character's personality.
+或是能清晰照亮角色个性的。
+
+212
+00:09:54,900 --> 00:09:58,020
+You modify whatever doesn't fit the world you've envisioned.
+你修改任何不符合你设想的世界的东西。
+
+213
+00:09:58,020 --> 00:10:00,580
+And here's the most powerful discernment practice,
+这是最强大的辨别练习，
+
+214
+00:10:01,419 --> 00:10:04,659
+deliberately discard AI's first two suggestions.
+故意舍弃AI的前两个建议。
+
+215
+00:10:04,659 --> 00:10:07,380
+They'll almost always be the most predictable.
+它们几乎总是最可预测的。
+
+216
+00:10:07,380 --> 00:10:09,460
+Go to the third or fourth idea.
+去第三个或第四个想法。
+
+217
+00:10:09,460 --> 00:10:12,260
+That's where the unexpected adjustment decision leaves.
+那是意外调整决策的来源。
+
+218
+00:10:13,659 --> 00:10:16,739
+With the diligence, every character that makes it
+凭借努力，每个进入你故事的角色
+
+219
+00:10:16,739 --> 00:10:20,059
+into your story is yours to stand behind.
+都是你可以支持的。
+
+220
+00:10:20,059 --> 00:10:23,140
+It can explain why they exist, what role they serve,
+它可以解释他们为何存在，他们的角色，
+
+221
+00:10:23,140 --> 00:10:24,659
+and how they were shaped.
+以及他们是如何形成的。
+
+222
+00:10:24,659 --> 00:10:27,739
+Hence, the most important thing I want you to take away.
+因此，我希望你记住的最重要的事情。
+
+223
+00:10:27,739 --> 00:10:31,260
+AI fluency is not about becoming more like a machine.
+AI流利度并不是变得更像机器。
+
+224
+00:10:31,260 --> 00:10:33,940
+It's about becoming more fully human.
+而是变得更加人性化。
+
+225
+00:10:33,940 --> 00:10:35,780
+When you're fluent with AI,
+当你与AI流利时，
+
+226
+00:10:35,780 --> 00:10:38,419
+your critical thinking doesn't diminish.
+你的批判性思维不会减弱。
+
+227
+00:10:38,419 --> 00:10:39,500
+It gets sharper
+反而会更加敏锐，
+
+228
+00:10:39,500 --> 00:10:42,059
+because you have a powerful thinking partner.
+因为你有一个强大的思维伙伴。
+
+229
+00:10:42,059 --> 00:10:44,260
+Your judgment doesn't weaken.
+你的判断力不会减弱。
+
+230
+00:10:44,260 --> 00:10:46,140
+It gets more refined.
+反而会更加精炼。
+
+231
+00:10:46,140 --> 00:10:48,460
+Your creativity doesn't shrink.
+你的创造力不会缩小。
+
+232
+00:10:48,460 --> 00:10:50,099
+It expands.
+反而会扩展。
+
+233
+00:10:50,099 --> 00:10:53,539
+In a world where AI can generate endless content,
+在一个AI可以生成无尽内容的世界里，
+
+234
+00:10:53,539 --> 00:10:56,299
+your ability to think critically, to discern,
+你批判性思考的能力、辨别能力、
+
+235
+00:10:56,299 --> 00:10:58,099
+to take responsibility,
+以及承担责任的能力，
+
+236
+00:10:58,099 --> 00:11:01,700
+those are your most valuable assets.
+这些都是你最宝贵的资产。
+
+237
+00:11:01,700 --> 00:11:04,500
+So here's what I'd encourage you to do.
+所以这是我鼓励你做的。
+
+238
+00:11:04,500 --> 00:11:08,460
+First, take Anthropic's free AI fluency course.
+首先，参加Anthropic的免费AI流利度课程。
+
+239
+00:11:08,460 --> 00:11:11,500
+It's called AI Fluency Framework and Foundations.
+它叫做AI流利度框架与基础。
+
+240
+00:11:11,500 --> 00:11:15,299
+It's free, it's rigorous, and it takes about an hour.
+这是免费的，内容严谨，大约需要一个小时。
+
+241
+00:11:15,299 --> 00:11:16,700
+I'll link it below.
+我会把链接放在下面。
+
+242
+00:11:16,700 --> 00:11:19,539
+Second, the next time you work with AI,
+第二，下次你使用AI时，
+
+243
+00:11:19,539 --> 00:11:21,780
+go through the four Ds consciously.
+要有意识地经历四个D。
+
+244
+00:11:21,780 --> 00:11:25,299
+Delegate intentionally, describe precisely,
+有意委派，准确描述，
+
+245
+00:11:25,299 --> 00:11:28,580
+discern critically, and practice diligence.
+批判性辨别，勤奋实践。
+
+246
+00:11:29,460 --> 00:11:32,219
+Third, share this with someone who needs to hear it
+第三，把这个分享给需要听的人，
+
+247
+00:11:32,219 --> 00:11:34,619
+because AI fluency is a superpower
+因为AI流利是一种超能力，
+
+248
+00:11:34,619 --> 00:11:37,780
+and it's one that everyone deserves access to.
+每个人都应该拥有这种能力。
+
+249
+00:11:37,780 --> 00:11:40,780
+Remember, you're not just here to use AI.
+记住，你不仅仅是来使用AI的。
+
+250
+00:11:40,780 --> 00:11:43,140
+You're here to work with it on your term.
+你是来按照自己的方式与之合作的。
