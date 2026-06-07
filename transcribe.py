@@ -80,8 +80,17 @@ def translate_segments(client: OpenAI, segments: list[dict], target_language: st
 
         numbered = "\n".join(f"{i+1}. {t}" for i, t in enumerate(batch))
         prompt = (
-            f"You are a professional subtitle translator. "
-            f"Translate the following {len(batch)} subtitle lines into {lang_name}. "
+            f"You are a professional subtitle translator. The following {len(batch)} lines "
+            f"are consecutive subtitle fragments from one continuous narration; many of them "
+            f"begin or end mid-sentence.\n\n"
+            f"Translate each numbered line into {lang_name}. CRITICAL ALIGNMENT RULES:\n"
+            f"1. Output exactly one translated line for every input line, with the same number.\n"
+            f"2. Line i's translation must correspond ONLY to the content of line i. Do NOT "
+            f"pull words from the next line forward, and do NOT push leftover words to the "
+            f"next line. If a sentence is cut off, translate the partial fragment as a partial "
+            f"fragment (a line may read as an incomplete clause).\n"
+            f"3. Use surrounding lines only to understand meaning, never to redistribute "
+            f"content across lines.\n\n"
             f'Return ONLY a JSON object with numeric string keys, e.g. {{"1": "...", "2": "...", ...}}. '
             f"Include every line. Keep translations concise and natural for subtitles.\n\n"
             f"{numbered}"
